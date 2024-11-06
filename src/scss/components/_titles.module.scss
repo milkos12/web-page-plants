@@ -1,0 +1,12 @@
+
+@import '../core/variables';
+
+
+.titleAbout {
+    font-family: $font-family-title-one;
+    color: $green-dark-six;
+    font-size: 50px;
+    font-weight: 1000;
+    position: relative;
+    top: 25%;
+}
