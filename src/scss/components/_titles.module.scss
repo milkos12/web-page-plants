@@ -8,5 +8,19 @@
     font-size: 50px;
     font-weight: 1000;
     position: relative;
-    top: 25%;
+    top: 35%;
 }
+
+.titleAboutOne {
+    width: 100%;
+    color: $text-color-two;
+    font-size: $font-size-small-title;
+    font-weight: $font-weight-small-title;
+}
+
+.titleAboutTwoWelcome {
+    font-size: $font-size-middle-title;
+    font-weight: $font-weight-middle-title;
+}
+
+
